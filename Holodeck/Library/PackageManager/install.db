@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "d54292e2604a",
+        "mtime": 1670014427404,
+        "size": 11911621,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.6.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "c47efbe1f8cd",
+        "mtime": 1670014427548,
+        "size": 55085272,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "07db80b5ea14",
+        "mtime": 1670014427553,
+        "size": 1129390,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.figmabridge": {
+      "tarball": {
+        "hash": "b20dced74a18",
+        "mtime": 1670014427555,
+        "size": 796147,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.figmabridge-0.1.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "321dd3d08b64",
+        "mtime": 1670014427587,
+        "size": 11554543,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.gpustats": {
+      "tarball": {
+        "hash": "c5bca7da8201",
+        "mtime": 1670014427588,
+        "size": 136802,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.gpustats-1.0.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.micstream": {
+      "tarball": {
+        "hash": "10e55ce31d3e",
+        "mtime": 1670014427590,
+        "size": 343203,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.micstream-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.planefinding": {
+      "tarball": {
+        "hash": "ba1c62ce75c5",
+        "mtime": 1670014427590,
+        "size": 226297,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.planefinding-1.0.0.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "5e90f7dbbcd8",
+        "mtime": 1670014427605,
+        "size": 5302738,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.testutilities": {
+      "tarball": {
+        "hash": "6af09d0d1838",
+        "mtime": 1670014427606,
+        "size": 18011,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.testutilities-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "e20aa4fa377a",
+        "mtime": 1670014427611,
+        "size": 2107313,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.2.tgz"
+      }
+    },
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "27bfa56ccb82",
+        "mtime": 1670014428332,
+        "size": 257303620,
+        "localPath": "C:\\Justin\\School\\Fall 2022\\CS599 Special Topics Holodecks\\Project\\CS599Project\\Holodeck\\Packages\\com.ptc.vuforia.engine-10.10.2.tgz"
+      }
+    }
+  }
+}

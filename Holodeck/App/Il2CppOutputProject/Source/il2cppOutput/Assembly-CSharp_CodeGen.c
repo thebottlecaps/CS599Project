@@ -1,0 +1,265 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void BannerLabel::set_ShowBackground(System.Boolean)
+extern void BannerLabel_set_ShowBackground_m7FF8D34F335A8D602CE251E9E6818042C257A28F (void);
+// 0x00000002 UnityEngine.Vector3 BannerLabel::get_LocalContentOffset()
+extern void BannerLabel_get_LocalContentOffset_m0717A60DFE621C8F45B97CDE31F49A6E8A1E2192 (void);
+// 0x00000003 System.Void BannerLabel::OnEnable()
+extern void BannerLabel_OnEnable_mEE5FBB890589E39076B50ABACDCF494BFADB1DCF (void);
+// 0x00000004 System.Void BannerLabel::Update()
+extern void BannerLabel_Update_m40741BA0A36CD786179AD2462E67CBA2FFEB1A13 (void);
+// 0x00000005 System.Void BannerLabel::RefreshLocalContent()
+extern void BannerLabel_RefreshLocalContent_mF96E4F63241A95F5B6DD822257412F6627F14596 (void);
+// 0x00000006 System.Void BannerLabel::SetBannerText(System.String)
+extern void BannerLabel_SetBannerText_m0FF8D4904A06E741EEDD4E02E56625B6BF3DE89A (void);
+// 0x00000007 System.Void BannerLabel::.ctor()
+extern void BannerLabel__ctor_m2DD2F12D86E35282D5A7CDA3DC287821FD23EF93 (void);
+// 0x00000008 System.Void MeasurementManager::Awake()
+extern void MeasurementManager_Awake_m052A9DCFCCBC8D2DFF91A0826BB170E6460E766B (void);
+// 0x00000009 System.Void MeasurementManager::InstantiateListeners()
+extern void MeasurementManager_InstantiateListeners_mE66825B1096EF7DDFC89B2A85123393C8195565C (void);
+// 0x0000000A System.Void MeasurementManager::OnExportButtonClicked()
+extern void MeasurementManager_OnExportButtonClicked_mF0E38B125C661628B77D2FA7635A90D0E50A6BDF (void);
+// 0x0000000B System.Collections.Generic.List`1<System.String> MeasurementManager::PrepareExportData()
+extern void MeasurementManager_PrepareExportData_m301CDC54CC2B94E99C144800D118B1CEA5C33527 (void);
+// 0x0000000C System.Void MeasurementManager::OnPathToggled()
+extern void MeasurementManager_OnPathToggled_mC5858AFB92FED3AE990D6642759C60554833F94D (void);
+// 0x0000000D System.Void MeasurementManager::OnChoosePath(System.Boolean)
+extern void MeasurementManager_OnChoosePath_m40B226B3F1FBB16DB208BD9471A0ACD947DCD957 (void);
+// 0x0000000E System.Void MeasurementManager::OnClearPathClicked(System.Int32)
+extern void MeasurementManager_OnClearPathClicked_mB6EAAAF235AF26EE2C3866228350F36480F47DDF (void);
+// 0x0000000F MeasurementWaypoint MeasurementManager::CreateNewWaypoint()
+extern void MeasurementManager_CreateNewWaypoint_mD7DF3352B42AB72C1F6D0A417ED3F8CF30E407A1 (void);
+// 0x00000010 MeasurementSubpath MeasurementManager::CreateNewSubpath(MeasurementWaypoint,MeasurementWaypoint)
+extern void MeasurementManager_CreateNewSubpath_mBE9C67ECD0CA523EE63DDBB700741EF287C1F1D1 (void);
+// 0x00000011 System.Void MeasurementManager::AddToPath()
+extern void MeasurementManager_AddToPath_m641A3B9608BA421744D67E858E291099CC9BEDAF (void);
+// 0x00000012 System.Void MeasurementManager::UpdateTotalPathLength(System.Int32,System.Boolean)
+extern void MeasurementManager_UpdateTotalPathLength_m0F7501F9E10F24848209F912ACAF888197DBA5EC (void);
+// 0x00000013 System.Int32 MeasurementManager::CalculateTotalPathLength(System.Int32)
+extern void MeasurementManager_CalculateTotalPathLength_m541035BA9A334D82202F9D74B0B1C4AA49D8102B (void);
+// 0x00000014 System.Void MeasurementManager::.ctor()
+extern void MeasurementManager__ctor_mCD006F4338A020414FD7BED29D65F14A5852A1B7 (void);
+// 0x00000015 System.Void MeasurementManager::<InstantiateListeners>b__20_0()
+extern void MeasurementManager_U3CInstantiateListenersU3Eb__20_0_m49226E4F12523217D64EF71E3F4ADF0A7A0CCBA3 (void);
+// 0x00000016 System.Void MeasurementManager/<>c__DisplayClass20_0::.ctor()
+extern void U3CU3Ec__DisplayClass20_0__ctor_m599455D01390DAFD211DEB9FD25580C574F371DB (void);
+// 0x00000017 System.Void MeasurementManager/<>c__DisplayClass20_0::<InstantiateListeners>b__1()
+extern void U3CU3Ec__DisplayClass20_0_U3CInstantiateListenersU3Eb__1_m067F7BF066D7C85C8F42855416D1F34DC73198D3 (void);
+// 0x00000018 MeasurementManager MeasurementSubpath::get_measurementManager()
+extern void MeasurementSubpath_get_measurementManager_mB498D85F35F3F867EBB623A81C8B8A70AFE2F87A (void);
+// 0x00000019 System.Void MeasurementSubpath::set_measurementManager(MeasurementManager)
+extern void MeasurementSubpath_set_measurementManager_mE8A257B85174A84AA4AFF4A74B123A04EAF869E6 (void);
+// 0x0000001A MeasurementWaypoint MeasurementSubpath::get_startPoint()
+extern void MeasurementSubpath_get_startPoint_mD585516AFA93D9A2B04AB1E7BE4CCEF7C4AD075C (void);
+// 0x0000001B System.Void MeasurementSubpath::set_startPoint(MeasurementWaypoint)
+extern void MeasurementSubpath_set_startPoint_m3F2E12B5C0FAB2780F689D69D028DBF648E5C930 (void);
+// 0x0000001C MeasurementWaypoint MeasurementSubpath::get_endPoint()
+extern void MeasurementSubpath_get_endPoint_m53D5B81DDFA34CDB4D0789E88612A82014A5A4DC (void);
+// 0x0000001D System.Void MeasurementSubpath::set_endPoint(MeasurementWaypoint)
+extern void MeasurementSubpath_set_endPoint_m7ABC4448C300DC38392105B48F0AC16F9D1F36F2 (void);
+// 0x0000001E System.Int32 MeasurementSubpath::get_pathLength()
+extern void MeasurementSubpath_get_pathLength_mB68D305AF5C7F17CDD530304E6DD8981B906F933 (void);
+// 0x0000001F System.Void MeasurementSubpath::set_pathLength(System.Int32)
+extern void MeasurementSubpath_set_pathLength_mA0C11BD1DF7A647C86B186C8B94FC4D345624E27 (void);
+// 0x00000020 System.Void MeasurementSubpath::Start()
+extern void MeasurementSubpath_Start_m71509777F9C315B9D84C4CC5D5580DD2EA51C5A3 (void);
+// 0x00000021 System.Void MeasurementSubpath::InitializeSubpath(System.Int32,UnityEngine.Transform,MeasurementWaypoint,MeasurementWaypoint,MeasurementManager,UnityEngine.Material)
+extern void MeasurementSubpath_InitializeSubpath_m6ED5E5B9FCDAA4C7CAF6D0148255E24ACA802AE1 (void);
+// 0x00000022 System.Void MeasurementSubpath::UpdateDistance()
+extern void MeasurementSubpath_UpdateDistance_m3D8371B6CB5006DC594820ECF28ADA510D99D72D (void);
+// 0x00000023 System.Void MeasurementSubpath::SetWaypoints(MeasurementWaypoint,MeasurementWaypoint)
+extern void MeasurementSubpath_SetWaypoints_mA92972B44631EFF22F70499B40CA36B730475FBA (void);
+// 0x00000024 System.Void MeasurementSubpath::SetLineMaterial(UnityEngine.Material)
+extern void MeasurementSubpath_SetLineMaterial_m118B0EDDD3031A9DF228CDE899BAC7E76710950D (void);
+// 0x00000025 System.Void MeasurementSubpath::CalculateDistance()
+extern void MeasurementSubpath_CalculateDistance_m92CE114DC95F060B0DDEC2350F42496B8A448A9A (void);
+// 0x00000026 System.Void MeasurementSubpath::.ctor()
+extern void MeasurementSubpath__ctor_m361A3ABF1B9B2CDF40D7A7DF4731EF7DC05ABD6B (void);
+// 0x00000027 MeasurementManager MeasurementWaypoint::get_measurementManager()
+extern void MeasurementWaypoint_get_measurementManager_m23F66BC86B360E1EC2D6A7E70CE9E46677DE7C41 (void);
+// 0x00000028 System.Void MeasurementWaypoint::set_measurementManager(MeasurementManager)
+extern void MeasurementWaypoint_set_measurementManager_mA3027609CB63C1358EF0C88D5C0A99ABDFBE2512 (void);
+// 0x00000029 MeasurementSubpath MeasurementWaypoint::get_subpath1()
+extern void MeasurementWaypoint_get_subpath1_m967445ECCA7E87EA8CF82628D0A119DB5E2EA5D7 (void);
+// 0x0000002A System.Void MeasurementWaypoint::set_subpath1(MeasurementSubpath)
+extern void MeasurementWaypoint_set_subpath1_m74F10767F5A80D821541C4224D47310E31080962 (void);
+// 0x0000002B MeasurementSubpath MeasurementWaypoint::get_subpath2()
+extern void MeasurementWaypoint_get_subpath2_m7B000E118A879823D193146B88D7582D1299ED6A (void);
+// 0x0000002C System.Void MeasurementWaypoint::set_subpath2(MeasurementSubpath)
+extern void MeasurementWaypoint_set_subpath2_m18CC4DFF877A083CC92119C606C669D1311D809B (void);
+// 0x0000002D System.Void MeasurementWaypoint::Awake()
+extern void MeasurementWaypoint_Awake_m15466B2564782E2E548DFD7F9E4F3F2A1EC15F52 (void);
+// 0x0000002E System.Void MeasurementWaypoint::InitializeWaypoint(System.Int32,UnityEngine.Transform,MeasurementManager)
+extern void MeasurementWaypoint_InitializeWaypoint_m65A7239E5081DAF4E17E51D706059733B85D46C0 (void);
+// 0x0000002F System.Void MeasurementWaypoint::Microsoft.MixedReality.Toolkit.Input.IMixedRealityPointerHandler.OnPointerClicked(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerClicked_mBDE56A282FD29E5DE1BCA0C79C981A43C8090462 (void);
+// 0x00000030 System.Void MeasurementWaypoint::Microsoft.MixedReality.Toolkit.Input.IMixedRealityPointerHandler.OnPointerDragged(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerDragged_mA1568AC56762E77683F5ADC97286F4F7CFD15C32 (void);
+// 0x00000031 System.Void MeasurementWaypoint::StartManipulationEndedEvents(Microsoft.MixedReality.Toolkit.UI.ManipulationEventData)
+extern void MeasurementWaypoint_StartManipulationEndedEvents_m9EC07FCB853A3A748EE50A4706F8C143FEF2DB4A (void);
+// 0x00000032 System.Void MeasurementWaypoint::SetWaypointName(System.Int32)
+extern void MeasurementWaypoint_SetWaypointName_mF7884CF93D4C3BD3B87BCF8F3B1F7DAA446ADA50 (void);
+// 0x00000033 System.Void MeasurementWaypoint::SetWaypointParent(UnityEngine.Transform)
+extern void MeasurementWaypoint_SetWaypointParent_mB40C90D1321217EB9E6EBFABFFDA9D79E11613CD (void);
+// 0x00000034 UnityEngine.Vector3 MeasurementWaypoint::GetWorldPosition()
+extern void MeasurementWaypoint_GetWorldPosition_m943C23EDC3E8EE4C9B540DD63461FD8F9F12A96C (void);
+// 0x00000035 System.Void MeasurementWaypoint::Microsoft.MixedReality.Toolkit.Input.IMixedRealityPointerHandler.OnPointerUp(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerUp_m66F79C3927E94D9DD651CDD91D4614FE129A991B (void);
+// 0x00000036 System.Void MeasurementWaypoint::Microsoft.MixedReality.Toolkit.Input.IMixedRealityPointerHandler.OnPointerDown(Microsoft.MixedReality.Toolkit.Input.MixedRealityPointerEventData)
+extern void MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerDown_mBDE8620DE48161FAF3592AD3B2B89ABFDD13A847 (void);
+// 0x00000037 System.Void MeasurementWaypoint::.ctor()
+extern void MeasurementWaypoint__ctor_m4B99BC2D5E35E38AB1F1D46DF5C28092B2394919 (void);
+// 0x00000038 System.Void DefaultNamespace.CSVWriter::.ctor()
+extern void CSVWriter__ctor_mC44C6503E44849EF81E13715F6D013FA521DA7B0 (void);
+static Il2CppMethodPointer s_methodPointers[56] = 
+{
+	BannerLabel_set_ShowBackground_m7FF8D34F335A8D602CE251E9E6818042C257A28F,
+	BannerLabel_get_LocalContentOffset_m0717A60DFE621C8F45B97CDE31F49A6E8A1E2192,
+	BannerLabel_OnEnable_mEE5FBB890589E39076B50ABACDCF494BFADB1DCF,
+	BannerLabel_Update_m40741BA0A36CD786179AD2462E67CBA2FFEB1A13,
+	BannerLabel_RefreshLocalContent_mF96E4F63241A95F5B6DD822257412F6627F14596,
+	BannerLabel_SetBannerText_m0FF8D4904A06E741EEDD4E02E56625B6BF3DE89A,
+	BannerLabel__ctor_m2DD2F12D86E35282D5A7CDA3DC287821FD23EF93,
+	MeasurementManager_Awake_m052A9DCFCCBC8D2DFF91A0826BB170E6460E766B,
+	MeasurementManager_InstantiateListeners_mE66825B1096EF7DDFC89B2A85123393C8195565C,
+	MeasurementManager_OnExportButtonClicked_mF0E38B125C661628B77D2FA7635A90D0E50A6BDF,
+	MeasurementManager_PrepareExportData_m301CDC54CC2B94E99C144800D118B1CEA5C33527,
+	MeasurementManager_OnPathToggled_mC5858AFB92FED3AE990D6642759C60554833F94D,
+	MeasurementManager_OnChoosePath_m40B226B3F1FBB16DB208BD9471A0ACD947DCD957,
+	MeasurementManager_OnClearPathClicked_mB6EAAAF235AF26EE2C3866228350F36480F47DDF,
+	MeasurementManager_CreateNewWaypoint_mD7DF3352B42AB72C1F6D0A417ED3F8CF30E407A1,
+	MeasurementManager_CreateNewSubpath_mBE9C67ECD0CA523EE63DDBB700741EF287C1F1D1,
+	MeasurementManager_AddToPath_m641A3B9608BA421744D67E858E291099CC9BEDAF,
+	MeasurementManager_UpdateTotalPathLength_m0F7501F9E10F24848209F912ACAF888197DBA5EC,
+	MeasurementManager_CalculateTotalPathLength_m541035BA9A334D82202F9D74B0B1C4AA49D8102B,
+	MeasurementManager__ctor_mCD006F4338A020414FD7BED29D65F14A5852A1B7,
+	MeasurementManager_U3CInstantiateListenersU3Eb__20_0_m49226E4F12523217D64EF71E3F4ADF0A7A0CCBA3,
+	U3CU3Ec__DisplayClass20_0__ctor_m599455D01390DAFD211DEB9FD25580C574F371DB,
+	U3CU3Ec__DisplayClass20_0_U3CInstantiateListenersU3Eb__1_m067F7BF066D7C85C8F42855416D1F34DC73198D3,
+	MeasurementSubpath_get_measurementManager_mB498D85F35F3F867EBB623A81C8B8A70AFE2F87A,
+	MeasurementSubpath_set_measurementManager_mE8A257B85174A84AA4AFF4A74B123A04EAF869E6,
+	MeasurementSubpath_get_startPoint_mD585516AFA93D9A2B04AB1E7BE4CCEF7C4AD075C,
+	MeasurementSubpath_set_startPoint_m3F2E12B5C0FAB2780F689D69D028DBF648E5C930,
+	MeasurementSubpath_get_endPoint_m53D5B81DDFA34CDB4D0789E88612A82014A5A4DC,
+	MeasurementSubpath_set_endPoint_m7ABC4448C300DC38392105B48F0AC16F9D1F36F2,
+	MeasurementSubpath_get_pathLength_mB68D305AF5C7F17CDD530304E6DD8981B906F933,
+	MeasurementSubpath_set_pathLength_mA0C11BD1DF7A647C86B186C8B94FC4D345624E27,
+	MeasurementSubpath_Start_m71509777F9C315B9D84C4CC5D5580DD2EA51C5A3,
+	MeasurementSubpath_InitializeSubpath_m6ED5E5B9FCDAA4C7CAF6D0148255E24ACA802AE1,
+	MeasurementSubpath_UpdateDistance_m3D8371B6CB5006DC594820ECF28ADA510D99D72D,
+	MeasurementSubpath_SetWaypoints_mA92972B44631EFF22F70499B40CA36B730475FBA,
+	MeasurementSubpath_SetLineMaterial_m118B0EDDD3031A9DF228CDE899BAC7E76710950D,
+	MeasurementSubpath_CalculateDistance_m92CE114DC95F060B0DDEC2350F42496B8A448A9A,
+	MeasurementSubpath__ctor_m361A3ABF1B9B2CDF40D7A7DF4731EF7DC05ABD6B,
+	MeasurementWaypoint_get_measurementManager_m23F66BC86B360E1EC2D6A7E70CE9E46677DE7C41,
+	MeasurementWaypoint_set_measurementManager_mA3027609CB63C1358EF0C88D5C0A99ABDFBE2512,
+	MeasurementWaypoint_get_subpath1_m967445ECCA7E87EA8CF82628D0A119DB5E2EA5D7,
+	MeasurementWaypoint_set_subpath1_m74F10767F5A80D821541C4224D47310E31080962,
+	MeasurementWaypoint_get_subpath2_m7B000E118A879823D193146B88D7582D1299ED6A,
+	MeasurementWaypoint_set_subpath2_m18CC4DFF877A083CC92119C606C669D1311D809B,
+	MeasurementWaypoint_Awake_m15466B2564782E2E548DFD7F9E4F3F2A1EC15F52,
+	MeasurementWaypoint_InitializeWaypoint_m65A7239E5081DAF4E17E51D706059733B85D46C0,
+	MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerClicked_mBDE56A282FD29E5DE1BCA0C79C981A43C8090462,
+	MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerDragged_mA1568AC56762E77683F5ADC97286F4F7CFD15C32,
+	MeasurementWaypoint_StartManipulationEndedEvents_m9EC07FCB853A3A748EE50A4706F8C143FEF2DB4A,
+	MeasurementWaypoint_SetWaypointName_mF7884CF93D4C3BD3B87BCF8F3B1F7DAA446ADA50,
+	MeasurementWaypoint_SetWaypointParent_mB40C90D1321217EB9E6EBFABFFDA9D79E11613CD,
+	MeasurementWaypoint_GetWorldPosition_m943C23EDC3E8EE4C9B540DD63461FD8F9F12A96C,
+	MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerUp_m66F79C3927E94D9DD651CDD91D4614FE129A991B,
+	MeasurementWaypoint_Microsoft_MixedReality_Toolkit_Input_IMixedRealityPointerHandler_OnPointerDown_mBDE8620DE48161FAF3592AD3B2B89ABFDD13A847,
+	MeasurementWaypoint__ctor_m4B99BC2D5E35E38AB1F1D46DF5C28092B2394919,
+	CSVWriter__ctor_mC44C6503E44849EF81E13715F6D013FA521DA7B0,
+};
+static const int32_t s_InvokerIndices[56] = 
+{
+	6853,
+	8825,
+	8837,
+	8837,
+	8837,
+	6995,
+	8837,
+	8837,
+	8837,
+	8837,
+	8682,
+	8837,
+	6853,
+	6948,
+	8682,
+	3048,
+	8837,
+	3478,
+	5783,
+	8837,
+	8837,
+	8837,
+	8837,
+	8682,
+	6995,
+	8682,
+	6995,
+	8682,
+	6995,
+	8632,
+	6948,
+	8837,
+	277,
+	8837,
+	3886,
+	6995,
+	8837,
+	8837,
+	8682,
+	6995,
+	8682,
+	6995,
+	8682,
+	6995,
+	8837,
+	1914,
+	6995,
+	6995,
+	6995,
+	6948,
+	6995,
+	8825,
+	6995,
+	6995,
+	8837,
+	8837,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	56,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL, // module initializer,
+	NULL,
+	NULL,
+	NULL,
+};
